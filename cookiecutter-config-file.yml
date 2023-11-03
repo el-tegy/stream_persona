@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "stream_persona"
+  project_description: "stream_persona is a comprehensive data engineering solution designed to seamlessly capture, process, store, and analyze data streams. Leveraging state-of-the-art technologies such as Apache Kafka, Apache Airflow, Apache Spark, and Apache Cassandra, this architecture ensures efficient data flow and processing capabilities."
+  organization: "Elisee TEGUE"
+  license: "MIT"
+  minimal_python_version: 3.9
+  github_name: "el-tegy"
+  email: "eliseetegue@gmail.co"
+  version: "0.1.0"
+  line_length: "88"
+  create_example_template: "cli"
